@@ -36,17 +36,6 @@ Generated passwords:
 3. F6%dH4&jU2#cN8$
 ```
 
-## Security Notes
-
-- Passwords are generated randomly using Python's `random` module
-- For maximum security in production, consider using `secrets` module instead
-- Never share your passwords with anyone
-- Store passwords securely (password manager recommended)
-
-## Requirements
-
-- Python 3.6+
-- No external dependencies needed
 
 ## Author
 
